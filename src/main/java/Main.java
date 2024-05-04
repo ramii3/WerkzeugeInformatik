@@ -17,4 +17,5 @@ public class Main {
     factory.buildCar(car2);
   }
   // This is a comment added in the main branch (conflicts with removal)
+
 }
